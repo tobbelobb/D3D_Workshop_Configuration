@@ -1,0 +1,14 @@
+set last_window_maximized True
+set last_window_width 800
+set last_window_height 500
+set port /dev/ttyUSB0
+set baudrate 115200
+set build_dimensions 200.00x200.00x100.00+0.00+0.00+0.00+0.00+0.00+0.00
+set extruders 1
+set slic3rintegration True
+set slic3rupdate True
+set viz3d True
+set slicecommand slic3r $s --output $o
+set sliceoptscommand slic3r --no-plater
+set last_file_path /home/guest/Desktop/3D_Models
+set recentfiles ["/home/guest/Desktop/3D_Models/20x20x9_cube.stl"]
